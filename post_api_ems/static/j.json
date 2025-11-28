@@ -1,0 +1,4 @@
+{"employee": [{"csrfmiddlewaretoken": "yMXRPVcsl0p4rOHgtKIjrZDW02vQEeQDq01HnvX3IcPsdnFZnKsz1kqNU7pKRTZE", "name": "lakshmi", "position": "dev", "email": "lakshmi@gmail.com"}, 
+{"csrfmiddlewaretoken": "bA7ZbEffBv4urGX1EfRURgd2VI4QMadZ3ObPJe0QYHuSdfVKyfBarB0TPNYKZPm0", "name": "madhuri", "position": "tester", "email": "madhuri@gmail.com"}, 
+{"csrfmiddlewaretoken": "Xu7CiEJ6W8xLwaK53YhiAUHuMVHwpAjxPIbsQeuHjkX9iJIOXY1yafulG0BqCfsy", "name": "bindhu", "position": "datascientist", "email": "bindhu@gmail.com"}, 
+{"csrfmiddlewaretoken": "86y5TIgBmYPrgQJUoG0JXM73qyq1MI1s0kCVri1cJafP2pHDiGKZx7UUkDkVZnat", "name": "deepu", "position": "dev", "email": "deepu@gmail.com"}]}

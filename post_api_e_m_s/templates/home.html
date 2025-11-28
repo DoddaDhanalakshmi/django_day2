@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="{% url 'creation' %}" method="post">
+        {% csrf_token %} 
+        <input type="text"placeholder="enter the name" name="name">
+        <input type="text" placeholder="enter the position"name="position">
+        <input type="email"placeholder="enter the emailid" name="email">
+        <button type="text">Add emp</button>
+    </form>
+</body>
+</html>
