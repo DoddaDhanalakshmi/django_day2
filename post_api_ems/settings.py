@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-96nj&8bju%e6sx-v32n-_48di42rrd)t+%3m0ympl3!w5bj9uf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["post-api-ems.onrender.com"]
 
 
 # Application definition
