@@ -15,7 +15,7 @@ def create_emp(request):
 @api_view(["GET"])
 def getallemp(request):
      if request.method=='GET':
-     datafromjson=readdata()
+          datafromjson=readdata()
      return JsonResponse(datafromjson)
      
 @api_view(["POST"])
